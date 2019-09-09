@@ -1,6 +1,6 @@
 # Client application for ordering a taxi
 
-#[DEMO](https://order-taxi-app.herokuapp.com)
+# [DEMO](https://order-taxi-app.herokuapp.com)
 
 Functionality: authorization, filling in "payment" data, request to build routes to given addresses, building a route on a map. Addresses and data for authorization are set on the server. The authorization flag and "payment" data are stored in localstorage.
 
